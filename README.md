@@ -1,4 +1,4 @@
-# Robotics_Papers
+# Robotics Papers
 This repository contains robotics-related research papers.
 
 # List of Papers
